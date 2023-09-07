@@ -1,0 +1,4 @@
+openai
+langchan
+streamlit
+pypdf
