@@ -1,5 +1,4 @@
 import streamlit as st
-pip install langchain
 import langchain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings
